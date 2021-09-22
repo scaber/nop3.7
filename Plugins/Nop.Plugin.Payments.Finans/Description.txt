@@ -1,8 +1,0 @@
-﻿Group: Payment methods
-FriendlyName: Credit Card Finans
-SystemName: Payments.Finans
-Version: 1
-SupportedVersions: 3.70
-Author: Tayfun kılıç
-DisplayOrder: 1
-FileName: Nop.Plugin.Payments.Finans.dll

@@ -1,6 +1,0 @@
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\bin\Debug\Nop.Plugin.Payments.FinansBank.dll
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\bin\Debug\Nop.Plugin.Payments.FinansBank.pdb
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\obj\Debug\Nop.Plugin.Payments.FinansBank.csprojAssemblyReference.cache
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\obj\Debug\Nop.Plugin.Payments.FinansBank.csproj.CoreCompileInputs.cache
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\obj\Debug\Nop.Plugin.Payments.FinansBank.dll
-F:\önemli\nopCommerce_3.70_Source\Nop.Plugin.Payments.FinansBank\obj\Debug\Nop.Plugin.Payments.FinansBank.pdb
