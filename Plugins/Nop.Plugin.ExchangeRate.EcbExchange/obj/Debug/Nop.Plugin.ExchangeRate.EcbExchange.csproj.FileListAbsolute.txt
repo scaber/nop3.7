@@ -1,0 +1,17 @@
+E:\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+E:\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+E:\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+E:\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+E:\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+E:\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

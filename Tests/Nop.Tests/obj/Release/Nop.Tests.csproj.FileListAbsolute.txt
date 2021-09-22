@@ -1,0 +1,8 @@
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\Nop.Tests.dll
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\Nop.Tests.pdb
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\nunit.framework.dll
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\Rhino.Mocks.dll
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\nunit.framework.xml
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\bin\Release\Rhino.Mocks.xml
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\obj\Release\Nop.Tests.dll
+E:\nopCommerce_3.70_Source\Tests\Nop.Tests\obj\Release\Nop.Tests.pdb
