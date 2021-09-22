@@ -1,0 +1,14 @@
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Views\PaymentFinans\Configure.cshtml
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Views\PaymentFinans\PaymentInfo.cshtml
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\web.config
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Views\PaymentFinans\ResponsePage.cshtml
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Description.txt
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\logo.jpg
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Nop.Plugin.Payments.Finans.dll.config
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Nop.Plugin.Payments.Finans.dll
+F:\önemli\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.Finans\Nop.Plugin.Payments.Finans.pdb
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Finans\obj\Debug\Nop.Plugin.Payments.Finans.csprojAssemblyReference.cache
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Finans\obj\Debug\Nop.Plugin.Payments.Finans.csproj.CoreCompileInputs.cache
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Finans\obj\Debug\Nop.Plugin.Payments.Finans.csproj.CopyComplete
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Finans\obj\Debug\Nop.Plugin.Payments.Finans.dll
+F:\önemli\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.Finans\obj\Debug\Nop.Plugin.Payments.Finans.pdb

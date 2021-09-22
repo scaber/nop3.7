@@ -1,0 +1,89 @@
+﻿@{
+    Layout = "";
+}
+@model ConfigurationModel
+@using Nop.Plugin.Payments.Finans.Models;
+@using Nop.Web.Framework;
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+<table class="adminContent">
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.ApiFinans_OverrideForStore, model => model.ApiFinans, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.ApiFinans):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.ApiFinans)
+            @Html.ValidationMessageFor(model => model.ApiFinans)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.MbrId_OverrideForStore, model => model.MbrId, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.MbrId):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.MbrId)
+            @Html.ValidationMessageFor(model => model.MbrId)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.MerchantID_OverrideForStore, model => model.MerchantID, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.MerchantID):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.MerchantID)
+            @Html.ValidationMessageFor(model => model.MerchantID)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.MerchantPass_OverrideForStore, model => model.MerchantPass, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.MerchantPass):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.MerchantPass)
+            @Html.ValidationMessageFor(model => model.MerchantPass)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.UserCode_OverrideForStore, model => model.UserCode, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.UserCode):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.UserCode)
+            @Html.ValidationMessageFor(model => model.UserCode)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.OkUrl_OverrideForStore, model => model.OkUrl, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.OkUrl):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.OkUrl)
+            @Html.ValidationMessageFor(model => model.OkUrl)
+        </td>
+    </tr>
+    <tr>
+        <td class="adminTitle">
+            @Html.OverrideStoreCheckboxFor(model => model.FailUrl_OverrideForStore, model => model.FailUrl, Model.ActiveStoreScopeConfiguration)
+            @Html.NopLabelFor(model => model.FailUrl):
+        </td>
+        <td class="adminData">
+            @Html.EditorFor(model => model.FailUrl)
+            @Html.ValidationMessageFor(model => model.FailUrl)
+        </td>
+    </tr> 
+    <tr>
+        <td colspan="2">
+            <input type="submit" name="save" class="k-button" value="@T("Admin.Common.Save")" />
+        </td>
+    </tr>
+</table>
+
+}

@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=SCABER;Initial Catalog=dbD8BA380A45;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=123
